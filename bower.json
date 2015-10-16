@@ -1,0 +1,28 @@
+{
+  "name": "json-merge-patch",
+  "description": "Implementation of JSON Merge Patch (RFC 7396)",
+  "main": "lib/*.js",
+  "authors": [
+    "Pierre Inglebert <pierre.inglebert@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "JSON",
+    "Merge",
+    "Patch",
+    "rfc",
+    "7396"
+  ],
+  "homepage": "https://github.com/patrickbard/json-merge-patch",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
